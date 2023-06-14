@@ -1,0 +1,13 @@
+release/admin.o
+release/adminwidget.o
+release/file.o
+release/main.o
+release/login_widget.o
+release/mainwindow.o
+release/stock.o
+release/user.o
+release/userstock.o
+release/qrc_res.o
+release/moc_adminwidget.o
+release/moc_login_widget.o
+release/moc_mainwindow.o
